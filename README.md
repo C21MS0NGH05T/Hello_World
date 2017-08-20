@@ -1,2 +1,1 @@
-# Hello_World
-A short description for a short project
+Stop reading me bro.
